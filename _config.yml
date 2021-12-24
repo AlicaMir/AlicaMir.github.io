@@ -1,0 +1,6 @@
+title: ZZZ
+description: > # this means to ignore newlines until "baseurl:"
+  sdgsdgs
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://alicamir.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: erer
