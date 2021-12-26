@@ -4,5 +4,9 @@ author:
 description: Коллекция задач и их решений
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ" # the base hostname & protocol for your site, e.g. http://example.com
-
 remote_theme: jekyll/minima
+
+minima:
+  social_links:
+    github: AlicaMir
+    telegram: MiroshnikovAV
