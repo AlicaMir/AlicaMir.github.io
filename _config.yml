@@ -1,12 +1,18 @@
+
 title: Доп. семинары по ОКТЧ
 author: 
   name: Мирошников А. В.
 description: Коллекция задач и их решений
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://alicamir.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" 
+url: "https://alicamir.github.io"
+
 remote_theme: jekyll/minima
 
 minima:
   social_links:
     github: AlicaMir
     telegram: MiroshnikovAV
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme

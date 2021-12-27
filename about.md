@@ -4,5 +4,4 @@ title: About
 permalink: /about
 ---
 
-#WOW, LOOKS AWESOME
-
+# WOW
