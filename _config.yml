@@ -8,6 +8,8 @@ url: "https://alicamir.github.io"
 
 remote_theme: jekyll/minima
 
+markdown: kramdown
+
 minima:
   social_links:
     github: AlicaMir
